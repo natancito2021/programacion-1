@@ -12,9 +12,11 @@ marcas.forEach((element, index) => {
     `)
 });
 
+//
 marcas.push("bmw")
 console.log(marcas)
 
+//
 marcas.pop()
 console.log(marcas)
 

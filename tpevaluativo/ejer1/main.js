@@ -7,11 +7,11 @@ function auto() {
 
     } else {
         if (marca == 'ford focus') {
-            const resultado = $2560000 - ((10 * 2560000) / 100)
+            const resultado = 2560000 - ((10 * 2560000) / 100)
             alert("descuento:" + resultado)
         }
         else {
-            const resultado = $1950000 - ((15 * 1950000) / 100)
+            const resultado = 1950000 - ((15 * 1950000) / 100)
             alert("descuento:" + resultado)
         }
     }
